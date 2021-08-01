@@ -1,23 +1,6 @@
 # picoCTF-2019-writeups
 Solutions and writeups for the picoCTF Cybersecurity Competition held by Carnegie Mellon University
 
-## My Team
-Consisted of me and [davidgur](https://github.com/davidgur)
-
-Final Score: 16101
-
-**Solved**:
-* 17 General Skills
-* 11 Forensics
-* 15 Web Exploitation
-* 14 Cryptography
-* 7 Binary Exploitation
-* 11 Reverse Engineering
-
-**Total**: Solved 75
-
-Placed 29th Canadian High School Student Team, 464th Globally
-
 ## Problems
 | Cryptography  |
 | ------------- |
