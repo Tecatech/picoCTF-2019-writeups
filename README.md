@@ -1,4 +1,4 @@
-# picoCTF-2019-writeup
+# picoCTF-2019-writeups
 Solutions and writeups for the picoCTF Cybersecurity Competition held by Carnegie Mellon University
 
 ## My Team
